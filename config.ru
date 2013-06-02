@@ -1,0 +1,3 @@
+require "./shelf"
+
+run Shelf
